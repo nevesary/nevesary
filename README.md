@@ -1,6 +1,6 @@
 Olá eu sou a Aryane  👋
 - 🔭 Atualmente trabalho com Front-end
-- 🌱 Estudando TypeScript e React
+- 🌱 Estou estudando TypeScript e React
 - 📫 Onde me encontrar: aryane.rochaneves33@gmail.com
 
 <div align="center">
