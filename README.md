@@ -1,7 +1,7 @@
-Seja Bem vindo! eu sou a Aryane  👋
-- 🔭 Atualmente trabalho com Front-end
-- 🌱 Estou aprimorando os meus conhecimentos em React e TypeScript
-- 📫 Onde me encontrar: aryane.rochaneves33@gmail.com
+Hi my names is Aryane  👋
+- 🔭 I currently work with Frontend
+- 🌱 I'm studying NextJS and GraphQL
+- 📫 Where to find me: aryaneneves07@gmail.com
 
 <div align="center">
   <a href="https://github.com/nevesary">
