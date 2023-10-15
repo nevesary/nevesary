@@ -1,4 +1,4 @@
-Hi my names is Aryane  👋
+Hi my name is Aryane  👋
 - 🔭 I currently work with Frontend
 - 🌱 I'm studying NextJS and GraphQL
 - 📫 Where to find me: aryaneneves07@gmail.com
