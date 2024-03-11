@@ -1,9 +1,9 @@
 # 😃 Seja bem vindo!
 
-Me chamo Aryane,
-trabalho com desenvolvimento font end a dois anos, Atualmente na empresa RSTcom.
-Apaixonada por técnologia e por dar vida aos layouts,
-Tenho conhecimentos avançados em Espanhol, e estou ampliando o meu nivel de Inglês!
+Me chamo Aryane e
+trabalho com desenvolvimento Front-End há dois anos, Atualmente trabalho na empresa RSTcom.
+Sou apaixonada por técnologia e por dar vida aos Layouts,
+Sou fluente no idioma Espanhol, e estou âmpliando o meu nivel de Inglês!
 
 
 
