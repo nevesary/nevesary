@@ -1,7 +1,6 @@
 :blush: sejam  bem vindos :blush:
 
-Sou a aryane, apaixonada por tecnologia e da vida a layouts, trabalho com desenvolvimento font end a dois anos, Atualmente na empresa RSTcom.
-Tenho conhecimentos avançados em espanhol, e estou ampliando o meu ingles
+
 
 
 # 💻 Tecnologias
