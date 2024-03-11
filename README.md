@@ -1,4 +1,4 @@
-# 😃 Seja bem vindo!
+# 😃 Olá , bem vindo!
 
 Me chamo Aryane e
 trabalho com desenvolvimento Front-End há dois anos, Atualmente trabalho na empresa RSTcom.
