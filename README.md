@@ -1,9 +1,10 @@
-# 😃 Olá , bem vindo!
+😃 Olá, seja bem-vindo(a)!
 
-Me chamo Aryane e
-trabalho com desenvolvimento Front-End há dois anos, Atualmente trabalho na empresa RSTcom.
-Sou apaixonada por técnologia e por dar vida aos Layouts,
-Sou fluente no idioma Espanhol, e estou âmpliando o meu nivel de Inglês!
+Me chamo Aryane, e tenho mais de dois anos de experiência no desenvolvimento Front-End. Atualmente, trabalho na RSTcom, onde ajudo a transformar layouts em soluções digitais dinâmicas e responsivas.
+
+Sou apaixonada por tecnologia e adoro ver ideias ganhando vida na tela. No meu dia a dia, utilizo tecnologias modernas para criar interfaces intuitivas e funcionais.
+
+Além disso, sou fluente em espanhol e estou aperfeiçoando meu inglês para me comunicar ainda melhor no ambiente global da tecnologia.
 
 
 
